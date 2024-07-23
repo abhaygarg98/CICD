@@ -1,0 +1,8 @@
+testSelenium\pageObjects\OrdersPage.class
+testSelenium\pageObjects\CheckoutPage.class
+testSelenium\pageObjects\AbstractComponents.class
+testSelenium\pageObjects\ConfirmationPage.class
+testSelenium\pageObjects\ProductCatalogue.class
+testSelenium\pageObjects\LoginPage.class
+testSelenium\pageObjects\CartPage.class
+testSelenium\resources\ExtentReporterNG.class
