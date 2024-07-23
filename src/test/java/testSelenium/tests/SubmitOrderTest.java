@@ -30,7 +30,7 @@ public class SubmitOrderTest extends BaseTest{
 	String productName = "ADIDAS ORIGINAL";
 	@Test(dataProvider="getData", groups= {"Purchase"})
 	public void SubmitOrder(HashMap<String, String> input) throws IOException {
-		
+		//new comments
 		
 		ProductCatalogue productCatalogue = loginPage.loginApplication(input.get("email"), input.get("password"));
 		
